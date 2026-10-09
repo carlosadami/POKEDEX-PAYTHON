@@ -1,0 +1,93 @@
+[
+    {
+        "numero": 25,
+        "nome": "pikachu",
+        "tipos": [
+            "electric"
+        ],
+        "habilidades": [
+            "static",
+            "lightning-rod"
+        ],
+        "altura": 0.4,
+        "peso": 6.0,
+        "hp": 35,
+        "ataque": 55,
+        "defesa": 40,
+        "velocidade": 90,
+        "poder_total": 220
+    },
+    {
+        "numero": 4,
+        "nome": "charmander",
+        "tipos": [
+            "fire"
+        ],
+        "habilidades": [
+            "blaze",
+            "solar-power"
+        ],
+        "altura": 0.6,
+        "peso": 8.5,
+        "hp": 39,
+        "ataque": 52,
+        "defesa": 43,
+        "velocidade": 65,
+        "poder_total": 199
+    },
+    {
+        "numero": 7,
+        "nome": "squirtle",
+        "tipos": [
+            "water"
+        ],
+        "habilidades": [
+            "torrent",
+            "rain-dish"
+        ],
+        "altura": 0.5,
+        "peso": 9.0,
+        "hp": 44,
+        "ataque": 48,
+        "defesa": 65,
+        "velocidade": 43,
+        "poder_total": 200
+    },
+    {
+        "numero": 1,
+        "nome": "bulbasaur",
+        "tipos": [
+            "grass",
+            "poison"
+        ],
+        "habilidades": [
+            "overgrow",
+            "chlorophyll"
+        ],
+        "altura": 0.7,
+        "peso": 6.9,
+        "hp": 45,
+        "ataque": 49,
+        "defesa": 49,
+        "velocidade": 45,
+        "poder_total": 188
+    },
+    {
+        "numero": 94,
+        "nome": "gengar",
+        "tipos": [
+            "ghost",
+            "poison"
+        ],
+        "habilidades": [
+            "cursed-body"
+        ],
+        "altura": 1.5,
+        "peso": 40.5,
+        "hp": 60,
+        "ataque": 65,
+        "defesa": 60,
+        "velocidade": 110,
+        "poder_total": 295
+    }
+]
